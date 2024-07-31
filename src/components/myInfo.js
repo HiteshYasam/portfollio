@@ -17,7 +17,7 @@ const INFO = {
         projects : [
             {   
                 title: "Portfolio Website",
-                image: "../public/assets/portfolioImg.png",
+                image: "..\\public\\assets\\portfolioImg.png",
                 description : "This project is my personal portfolio website built using React JS frame work along with HTML, CSS, JavaScript. This website is one of best example for data abstraction as any user having the source code can just modify the myInfo.js file to change the website without interacting with the code",
                 skills: "HTML | CSS | JS | React JS",
                 link: "https://github.com/HiteshYasam/personalwebsite"
